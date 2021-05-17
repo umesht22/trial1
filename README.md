@@ -1,3 +1,3 @@
 # trial1
 
-This is a trial version
+This is a trial version!
